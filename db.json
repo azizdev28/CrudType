@@ -1,0 +1,30 @@
+{
+  "crud": [
+    {
+      "name": "Azizbek",
+      "task": "Reading books ",
+      "id": "ff35"
+    },
+    {
+      "id": "7ff2",
+      "name": "Abror",
+      "task": "Start Up project"
+    },
+    {
+      "id": "bf49",
+      "name": "Sarvar ",
+      "task": "Working Days"
+    },
+    {
+      "name": "Alibek",
+      "task": "Shoping products",
+      "id": "6b2b"
+    },
+    {
+      "id": "4746",
+      "name": "Ahror",
+      "task": "Playing Footbal",
+      "deadline": "2023-12-12"
+    }
+  ]
+}
